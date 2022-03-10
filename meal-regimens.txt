@@ -22,3 +22,5 @@ Directions: Empty bags over meadow area during designated times
        Also, observe that HEAD and master branches points to this new commit.
     
 6). Include this new info in meal-regimens.txt.
+
+Test
